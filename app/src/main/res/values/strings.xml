@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string-array name="cinemas">
+        <item>请选择电影院</item>
+        <item>电影院 1</item>
+        <item>电影院 2</item>
+        <item>电影院 3</item>
+        <item>电影院 4</item>
+    </string-array>
+    <string-array name="showings">
+        <item>请选择场次</item>
+        <item>场次 1</item>
+        <item>场次 2</item>
+        <item>场次 3</item>
+    </string-array>
+</resources>
